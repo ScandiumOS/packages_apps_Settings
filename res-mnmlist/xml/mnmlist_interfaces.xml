@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 The Scandium, xyzprjkt
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<PreferenceScreen
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:title="@string/interfaces_title"
+     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+
+      <com.scandium.mnmlist.preferences.SystemSettingSwitchPreference
+            android:key="display_settings_wallpaper_zoom"
+            android:title="@string/use_wp_zoom_title"
+            android:summary="@string/use_wp_zoom_summary"
+            android:defaultValue="false" />
+
+     <PreferenceCategory
+          android:title="@string/interfaces_statusbar_title">
+
+          <Preference
+               android:key="systemui_tuner_statusbar"
+               android:title="@string/statusbar_items_title"
+               android:summary="@string/statusbar_items_summary" >
+               
+               <intent
+                    android:action="android.intent.action.MAIN"
+                    android:targetPackage="com.android.systemui"
+                    android:targetClass="com.android.systemui.tuner.StatusbarItemsActivity" />
+        
+          </Preference>
+          
+          <Preference
+              android:key="clock"
+              android:title="@string/status_bar_clock_title"
+              android:summary="@string/status_bar_clock_summary"
+              android:fragment="com.scandium.mnmlist.fragments.StatusBarClock" />
+
+          <Preference
+               android:key="battery_settings"
+               android:fragment="com.scandium.mnmlist.fragments.StatusBarBattery"
+               android:title="@string/battery_style_title"
+               android:summary="@string/battery_style_summary" />
+	  
+          <!-- Separate signal icons -->
+          <com.scandium.mnmlist.preferences.OverlaySwitchPreference
+               android:key="com.android.systemui.flags.no_combined_icons"
+               android:title="@string/separate_signal_icons_title"
+               android:summary="@string/separate_signal_icons_summary"
+               android:defaultValue="false" />
+
+          <com.scandium.mnmlist.preferences.SystemSettingSwitchPreference
+               android:key="show_fourg_icon"
+               android:title="@string/show_fourg_icon_title"
+               android:summary="@string/show_fourg_icon_summary"
+               android:defaultValue="true"/>
+
+          <com.scandium.mnmlist.preferences.SystemSettingSwitchPreference
+               android:key="use_old_mobiletype"
+               android:title="@string/use_old_mobiletype_title"
+               android:summary="@string/use_old_mobiletype_summary"
+               android:defaultValue="false" />
+
+          <com.scandium.mnmlist.preferences.SystemSettingSwitchPreference
+               android:key="data_disabled_icon"
+               android:title="@string/data_disabled_icon_title"
+               android:summary="@string/data_disabled_icon_summary"
+               android:defaultValue="true"/>
+
+          <com.scandium.mnmlist.preferences.SystemSettingSwitchPreference
+               android:key="roaming_indicator_icon"
+               android:title="@string/roaming_indicator_icon_title"
+               android:summary="@string/roaming_indicator_icon_summary"
+               android:defaultValue="true"/>
+
+          <!-- Network Traffic -->
+          <com.scandium.mnmlist.preferences.SystemSettingMasterSwitchPreference
+               android:key="network_traffic_state"
+               android:title="@string/network_traffic_state_title"
+               android:summary="@string/network_traffic_state_summary"
+               android:fragment="com.scandium.mnmlist.fragments.InterfacesNetworkTraffic"
+               android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
