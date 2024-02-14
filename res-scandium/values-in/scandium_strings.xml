@@ -90,7 +90,7 @@
     <string name="scandium_about_core_team_cat">Pengembang inti</string>
     <string name="scandium_about_contributor_cat">Kontributor</string>
     <!-- scandium. About -->
-    <string name="scandium_about_desc">scandium adalah ROM Android kustom berbasis AOSP yang berfokus pada kesederhanaan dan minimalis dengan menjaga kelancaran dan pengoptimalan yang disediakan oleh AOSP.</string>
+    <string name="scandium_about_desc">scandium adalah ROM Android kustom berbasis AOSP yang berfokus pada minimalis desain dengan menjaga kelancaran dan pengoptimalan yang disediakan oleh AOSP.</string>
     <string name="scandium_about_core_xyzuan">Rayhan77</string>
     <string name="scandium_about_core_xyzuan_role">Pendiri, Pengembang Utama, dan Perancang UI</string>
     <string name="scandium_about_core_friction">Putra</string>
