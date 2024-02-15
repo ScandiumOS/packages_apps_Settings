@@ -1,5 +1,6 @@
-name: Build & Publish Release APK
-
+- name: Build Debug APK
+  run: ./gradlew assembleDebug
+  
 on:
   push:
     tags:
