@@ -1,6 +1,5 @@
-- name: Build Debug APK
-  run: ./gradlew assembleDebug
-  
+- name: Project Scandium
+
 on:
   push:
     tags:
