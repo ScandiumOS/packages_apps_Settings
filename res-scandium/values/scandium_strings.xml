@@ -98,21 +98,21 @@
     <string name="scandium_about_contributor_cat">Contributor</string>
 
     <!-- scandium. About -->
-    <string name="scandium_about_desc">Scandum Ui is an AOSP-based custom Android ROM which is focusing on simple and minimalism while keeping the smoothness and optimization provided by AOSP.</string>
-    <string name="scandium_about_core_xyzuan">Rayhan</string>
-    <string name="scandium_about_core_xyzuan_role">Founder, Lead Developer and UI Designer</string>
-    <string name="scandium_about_core_friction">Arsky</string>
-    <string name="scandium_about_core_friction_role">UI and UX Designer</string>
-    <string name="scandium_about_core_eky">Picasso</string>
-    <string name="scandium_about_core_eky_role">Lead Developer</string>
-    <string name="scandium_about_core_waxaranai">Wisnu</string>
-    <string name="scandium_about_core_waxaranai_role">Project Manager</string>
-    <string name="scandium_about_core_basokuahenakrasanya">RzaX</string>
-    <string name="scandium_about_core_basokuahenakrasanya_role">Ui and Ux Designer</string>
-    <string name="scandium_about_contributor_rdclxvi">Putra</string>
-    <string name="scandium_about_contributor_rdclxvi_role">Lead Developer</string>
-    <string name="scandium_about_contributor_iszon">All Maintener</string>
-    <string name="scandium_about_contributor_iszon_role">Thanks For God</string>
+    <string name="scandium_about_desc">scandium is an AOSP based custom Android ROM that focuses on minimalist design while maintaining the smoothness and optimization provided by AOSP.</string>
+    <string name="scandium_about_core_rayhan77">Rayhan77</string>
+    <string name="scandium_about_core_rayhan77_role">Founder, Lead Developer and UI Designer</string>
+    <string name="scandium_about_core_wisnu">Wisnu</string>
+    <string name="scandium_about_core_wisnu_role">Project Manager</string>
+    <string name="scandium_about_core_rzalx">RzalX</string>
+    <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
+    <string name="scandium_about_core_picasso">Picasso</string>
+    <string name="scandium_about_core_picasso_role">Lead Developer</string>
+    <string name="scandium_about_contributor_arsky">Arsky</string>
+    <string name="scandium_about_contributor_arsky_role">Front end developer and Desainer UI</string>
+    <string name="scandium_about_contributor_putra">Putra</string>
+    <string name="scandium_about_contributor_putra_role">Lead Developer and Desainer UI</string>
+    <string name="scandium_about_contributor_soni">Soni</string>
+    <string name="scandium_about_contributor_soni_role">Indonesian Translator</string>
     <string name="scandium_about_contributor_vi">My Family</string>
     <string name="scandium_about_contributor_vi_summary">My Friend</string>
 
