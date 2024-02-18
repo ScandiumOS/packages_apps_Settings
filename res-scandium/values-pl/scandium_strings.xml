@@ -75,6 +75,8 @@
     <string name="scandium_about_core_wisnu_role">Menadżer projektu</string>
     <string name="scandium_about_core_rzalx">RzalX</string>
     <string name="scandium_about_core_rzalx_role">Projektant UI i UX</string>
+    <string name="scandium_about_core_picasso">Picasso</string>
+    <string name="scandium_about_core_picasso_role">Główny programista</string>
     <string name="scandium_about_contributor_arsky">Arsky</string>
     <string name="scandium_about_contributor_arsky_role">Programista front endowy</string>
     <string name="scandium_about_contributor_putra">Putra</string>
