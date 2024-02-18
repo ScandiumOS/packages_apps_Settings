@@ -117,7 +117,7 @@
     <string name="scandium_camera_mp">Camera</string>
     <string name="scandium_screen_type">Màn hình</string>
 
-	<!-- scandium. Build Status -->
+    <!-- scandium. Build Status -->
     <string name="scandium_build_status">Thiết bị của bạn không được hỗ trợ chính thức!</string>
     <string name="scandium_build_maintained_summary">Được hỗ trợ chính thức bởi %s</string>
     <string name="scandium_build_unmaintained_summary">Build này không được hỗ trợ chính thức</string>
