@@ -36,73 +36,73 @@
         android:key="scandium_about_core_team"
         android:title="@string/scandium_about_core_team_cat">
 
-        <!-- xyzuan -->
+        <!-- Rayhan77 -->
         <Preference
-            android:key="scandium_about_xyzuan"
+            android:key="scandium_about_rayhan77"
             settings:layout="@layout/scandium_about_core_pref"
-            android:icon="@drawable/scandium_about_xyzuan"
-            android:title="@string/scandium_about_core_xyzuan"
-            android:summary="@string/scandium_about_core_xyzuan_role">
+            android:icon="@drawable/scandium_about_rayhan77"
+            android:title="@string/scandium_about_core_rayhan77"
+            android:summary="@string/scandium_about_core_rayhan77_role">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/xyzuan"/>
+                android:data="https://t.me/akemiinawa"/>
 
         </Preference>
 
-        <!-- friction -->
+        <!-- Wisnu -->
         <Preference
-            android:key="scandium_about_friction"
-            android:icon="@drawable/scandium_about_friction"
+            android:key="scandium_about_wisnu"
+            android:icon="@drawable/scandium_about_wisnu"
             settings:layout="@layout/scandium_about_core_pref"
-            android:title="@string/scandium_about_core_friction"
-            android:summary="@string/scandium_about_core_friction_role">
+            android:title="@string/scandium_about_core_wisnu"
+            android:summary="@string/scandium_about_core_wisnu_role">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/gerobaksariroti"/>
+                android:data="https://t.me/Rem01Gaming"/>
 
         </Preference>
 
-        <!-- Eky Zahahah -->
+        <!-- RzalX -->
         <Preference
-            android:key="scandium_about_eky"
-            android:icon="@drawable/scandium_about_eky"
+            android:key="scandium_about_rzalx"
+            android:icon="@drawable/scandium_about_rzalx"
             settings:layout="@layout/scandium_about_core_pref"
-            android:title="@string/scandium_about_core_eky"
-            android:summary="@string/scandium_about_core_eky_role">
+            android:title="@string/scandium_about_core_rzalx"
+            android:summary="@string/scandium_about_core_rzalx_role">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/hahahahahhhhh10"/>
+                android:data="https://t.me/RzaIXX"/>
 
         </Preference>
 
-        <!-- Waxaranai -->
+        <!-- Arsky -->
         <Preference
-            android:key="scandium_about_waxaranai"
-            android:icon="@drawable/scandium_about_waxaranai"
+            android:key="scandium_about_arsky"
+            android:icon="@drawable/scandium_about_arsky"
             settings:layout="@layout/scandium_about_core_pref"
-            android:title="@string/scandium_about_core_waxaranai"
-            android:summary="@string/scandium_about_core_waxaranai_role">
+            android:title="@string/scandium_about_core_arsky"
+            android:summary="@string/scandium_about_core_arsky_role">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/Waxaranai"/>
+                android:data="https://t.me/mi_ayam_exe"/>
 
         </Preference>
 
-        <!-- basokuahenakrasanya -->
+        <!-- Putra -->
         <Preference
-            android:key="scandium_about_basokuahenakrasanya"
-            android:icon="@drawable/scandium_about_basokuahenakrasanya"
+            android:key="scandium_about_putra"
+            android:icon="@drawable/scandium_about_putra"
             settings:layout="@layout/scandium_about_core_pref"
-            android:title="@string/scandium_about_core_basokuahenakrasanya"
-            android:summary="@string/scandium_about_core_basokuahenakrasanya_role">
+            android:title="@string/scandium_about_core_putra"
+            android:summary="@string/scandium_about_core_putra_role">
 
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/basokuahenakrasanya"/>
+                android:data="https://t.me/ProjectKernel"/>
 
         </Preference>
 
