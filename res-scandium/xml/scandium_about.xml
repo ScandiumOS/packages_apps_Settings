@@ -78,6 +78,20 @@
 
         </Preference>
 
+        <!-- Picasso -->
+        <Preference
+            android:key="scandium_about_picasso"
+            android:icon="@drawable/scandium_about_picasso"
+            settings:layout="@layout/scandium_about_core_pref"
+            android:title="@string/scandium_about_core_picasso"
+            android:summary="@string/scandium_about_core_picasso_role">
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/picasso170606"/>
+
+        </Preference>
+
         <!-- Arsky -->
         <Preference
             android:key="scandium_about_arsky"
