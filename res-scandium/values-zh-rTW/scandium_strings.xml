@@ -87,19 +87,19 @@
     <string name="scandium_about_core_team_cat">核心開發者</string>
     <string name="scandium_about_contributor_cat">貢獻者</string>
     <!-- scandium. About -->
-    <string name="scandium_about_desc">scandium 是一款基於 AOSP 的定制 Android ROM，在保持 AOSP 提供的流暢性和優化的同時，注重簡單和極簡主義。</string>
-    <string name="scandium_about_core_xyzuan">Jody Yuantoro</string>
-    <string name="scandium_about_core_xyzuan_role">創始人、首席開發人員和 UI 設計師</string>
-    <string name="scandium_about_core_friction">Firman Yanuar</string>
-    <string name="scandium_about_core_friction_role">UI 和 UX 設計師</string>
-    <string name="scandium_about_core_eky">Eky Zakariah</string>
-    <string name="scandium_about_core_eky_role">前端開發者</string>
-    <string name="scandium_about_contributor_rdclxvi">Royan AK</string>
-    <string name="scandium_about_contributor_rdclxvi_role">印度尼西亚翻译者</string>
-    <string name="scandium_about_contributor_iszon">Iszon</string>
-    <string name="scandium_about_contributor_iszon_role">波兰语翻译者</string>
-    <string name="scandium_about_contributor_vi">log1cs</string>
-    <string name="scandium_about_contributor_vi_summary">越南语翻译者</string>
+    <string name="scandium_about_desc">Scandium 是一款基於 AOSP 的客製化 Android ROM，專注於極簡設計，同時保持 AOSP 提供的流暢性和優化。</string>
+    <string name="scandium_about_core_rayhan77">Rayhan77</string>
+    <string name="scandium_about_core_rayhan77_role">創辦人、首席開發人員和 UI 設計師</string>
+    <string name="scandium_about_core_wisnu">Wisnu</string>
+    <string name="scandium_about_core_wisnu_role">專案經理</string>
+    <string name="scandium_about_core_rzalx">RzalX</string>
+    <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
+    <string name="scandium_about_contributor_arsky">Arsky</string>
+    <string name="scandium_about_contributor_arsky_role">UI 和 UX 設計師</string>
+    <string name="scandium_about_contributor_putra">Putra</string>
+    <string name="scandium_about_contributor_putra_role">使用者介面設計師</string>
+    <string name="scandium_about_contributor_soni">Soni</string>
+    <string name="scandium_about_contributor_soni_summary">印尼語翻譯</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">裝置名稱</string>
     <string name="scandium_chipset_type">芯片</string>
