@@ -97,6 +97,8 @@
     <string name="scandium_about_core_wisnu_role">Project Manager</string>
     <string name="scandium_about_core_rzalx">RzalX</string>
     <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
+    <string name="scandium_about_core_picasso">Picasso</string>
+    <string name="scandium_about_core_picasso_role">Pengembang Utama</string>
     <string name="scandium_about_contributor_arsky">Arsky</string>
     <string name="scandium_about_contributor_arsky_role">Pengembang front end</string>
     <string name="scandium_about_contributor_putra">Putra</string>
