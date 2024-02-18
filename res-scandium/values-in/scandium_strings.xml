@@ -91,18 +91,18 @@
     <string name="scandium_about_contributor_cat">Kontributor</string>
     <!-- scandium. About -->
     <string name="scandium_about_desc">scandium adalah ROM Android kustom berbasis AOSP yang berfokus pada minimalis desain dengan menjaga kelancaran dan pengoptimalan yang disediakan oleh AOSP.</string>
-    <string name="scandium_about_core_xyzuan">Rayhan77</string>
-    <string name="scandium_about_core_xyzuan_role">Pendiri, Pengembang Utama, dan Perancang UI</string>
-    <string name="scandium_about_core_friction">Putra</string>
-    <string name="scandium_about_core_friction_role">Desainer UI</string>
-    <string name="scandium_about_core_eky">Arsky</string>
-    <string name="scandium_about_core_eky_role">Pengembang front end</string>
-    <string name="scandium_about_contributor_rdclxvi">Soni</string>
-    <string name="scandium_about_contributor_rdclxvi_role">Penerjemah Indonesia</string>
-    <string name="scandium_about_contributor_iszon">Wisnu</string>
-    <string name="scandium_about_contributor_iszon_role">Project Manager</string>
-    <string name="scandium_about_contributor_vi">RzalX</string>
-    <string name="scandium_about_contributor_vi_summary">Desainer UI dan UX</string>
+    <string name="scandium_about_core_rayhan77">Rayhan77</string>
+    <string name="scandium_about_core_rayhan77_role">Pendiri, Pengembang Utama, dan Perancang UI</string>
+    <string name="scandium_about_core_wisnu">Wisnu</string>
+    <string name="scandium_about_core_wisnu_role">Project Manager</string>
+    <string name="scandium_about_core_rzalx">RzalX</string>
+    <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
+    <string name="scandium_about_contributor_arsky">Arsky</string>
+    <string name="scandium_about_contributor_arsky_role">Pengembang front end</string>
+    <string name="scandium_about_contributor_putra">Putra</string>
+    <string name="scandium_about_contributor_putra_role">Desainer UI</string>
+    <string name="scandium_about_contributor_wisnu">Wisnu</string>
+    <string name="scandium_about_contributor_wisnu_summary">Project Manager</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Nama perangkat</string>
     <string name="scandium_chipset_type">Chipset</string>
