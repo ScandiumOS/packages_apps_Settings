@@ -106,5 +106,17 @@
 
         </Preference>
 
+        <!-- Soni -->
+        <Preference
+            android:key="scandium_about_soni"
+            android:icon="@drawable/scandium_about_soni"
+            settings:layout="@layout/scandium_about_core_pref"
+            android:title="@string/scandium_about_core_soni"
+            android:summary="@string/scandium_about_core_soni_role">
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/StartTrueDreams"/>
+
     </PreferenceCategory>
 </PreferenceScreen>
