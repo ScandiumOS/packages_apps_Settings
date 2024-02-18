@@ -96,11 +96,19 @@
     <string name="scandium_about_contributor_cat">Người đóng góp</string>
 
     <!-- scandium. About -->
-    <string name="scandium_about_desc">scandium là một custom ROM dựa trên AOSP hướng tới sự đơn giản và tối giản trong khi vẫn duy trì được sự mượt mà và sự tối ưu mà AOSP mang lại.</string>
-    <string name="scandium_about_core_xyzuan">Jody Yuantoro</string>
-    <string name="scandium_about_core_xyzuan_role">Người sáng lập, người phát triển chính và người thiết kế UI</string>
-    <string name="scandium_about_core_friction">Firman Yanuar</string>
-    <string name="scandium_about_core_friction_role">Người thiết kế UI và UX</string>
+    <string name="scandium_about_desc">scandium là ROM Android tùy chỉnh dựa trên AOSP, tập trung vào thiết kế tối giản trong khi vẫn duy trì độ mượt mà và tối ưu hóa do AOSP cung cấp.</string>
+    <string name="scandium_about_core_rayhan77">Rayhan77</string>
+    <string name="scandium_about_core_rayhan77_role">Người sáng lập, Nhà phát triển chính và Nhà thiết kế giao diện người dùng</string>
+    <string name="scandium_about_core_wisnu">Wisnu</string>
+    <string name="scandium_about_core_wisnu_role">Quản lý dự án</string>
+    <string name="scandium_about_core_rzalx">RzalX</string>
+    <string name="scandium_about_core_rzalx_role">Nhà thiết kế UI và UX</string>
+    <string name="scandium_about_contributor_arsky">Arsky</string>
+    <string name="scandium_about_contributor_arsky_role">Nhà phát triển giao diện người dùng</string>
+    <string name="scandium_about_contributor_putra">Putra</string>
+    <string name="scandium_about_contributor_putra_role">Nhà thiết kế UI</string>
+    <string name="scandium_about_contributor_soni">Soni</string>
+    <string name="scandium_about_contributor_soni_summary">Bản dịch tiếng Indonesia</string>
 
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Tên thiết bị</string>
