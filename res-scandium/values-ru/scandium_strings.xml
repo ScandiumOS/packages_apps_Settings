@@ -68,11 +68,19 @@
     <string name="scandium_category_brightness">Яркость</string>
     <string name="scandium_about_core_team_cat">Главный разработчик</string>
     <!-- scandium. About -->
-    <string name="scandium_about_desc">scandium - это кастомная прошивка, основанное на AOSP, которое фокусируется на простом и минималистичном пользовательском интерфейсе, сохраняя при этом плавность и оптимизацию, обеспечиваемую форумом AOSP.</string>
-    <string name="scandium_about_core_xyzuan">Jody Yuantoro</string>
-    <string name="scandium_about_core_xyzuan_role">Основатель, ведущий разработчик и UI дизайнер</string>
-    <string name="scandium_about_core_friction">Firman Yanuar</string>
-    <string name="scandium_about_core_friction_role">UI и UX дизайнер</string>
+    <string name="scandium_about_desc">Scandium — это специальное ПЗУ Android на основе AOSP, в котором основное внимание уделяется минималистскому дизайну, сохраняя при этом плавность и оптимизацию, обеспечиваемые AOSP.</string>
+    <string name="scandium_about_core_rayhan77">Rayhan77</string>
+    <string name="scandium_about_core_rayhan77_role">Основатель, ведущий разработчик и дизайнер пользовательского интерфейса</string>
+    <string name="scandium_about_core_wisnu">Wisnu</string>
+    <string name="scandium_about_core_wisnu_role">Руководитель проекта</string>
+    <string name="scandium_about_core_rzalx">RzalX</string>
+    <string name="scandium_about_core_rzalx_role">UI и UX дизайнер</string>
+    <string name="scandium_about_contributor_arsky">Arsky</string>
+    <string name="scandium_about_contributor_arsky_role">Фронтенд-разработчик</string>
+    <string name="scandium_about_contributor_putra">Putra</string>
+    <string name="scandium_about_contributor_putra_role">UI дизайнер</string>
+    <string name="scandium_about_contributor_soni">Soni</string>
+    <string name="scandium_about_contributor_soni_summary">Индонезийский переводчик</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Имя устройства</string>
     <string name="scandium_chipset_type">Процессор</string>
