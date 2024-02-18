@@ -80,7 +80,7 @@
     <string name="scandium_about_contributor_putra">Putra</string>
     <string name="scandium_about_contributor_putra_role">Projektant UI</string>
     <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_summary">Tłumacz indonezyjski</string>
+    <string name="scandium_about_contributor_soni_role">Tłumacz indonezyjski</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Nazwa urządzenia</string>
     <string name="scandium_chipset_type">Chipset</string>
