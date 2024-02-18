@@ -103,6 +103,8 @@
     <string name="scandium_about_contributor_putra_role">Desainer UI</string>
     <string name="scandium_about_contributor_soni">Soni</string>
     <string name="scandium_about_contributor_soni_role">Penerjemah Indonesia</string>
+    <string name="scandium_about_contributor_vi">Keluarga Saya</string>
+    <string name="scandium_about_contributor_vi_summary">Teman Saya</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Nama perangkat</string>
     <string name="scandium_chipset_type">Chipset</string>
