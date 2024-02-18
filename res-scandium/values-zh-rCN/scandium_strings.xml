@@ -99,7 +99,7 @@
     <string name="scandium_about_contributor_putra">Putra</string>
     <string name="scandium_about_contributor_putra_role">用户界面设计师</string>
     <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_summary">印尼语翻译</string>
+    <string name="scandium_about_contributor_soni_role">印尼语翻译</string>
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">设备名称</string>
     <string name="scandium_chipset_type">芯片组</string>
