@@ -109,6 +109,8 @@
     <string name="scandium_about_contributor_putra_role">Nhà thiết kế UI</string>
     <string name="scandium_about_contributor_soni">Soni</string>
     <string name="scandium_about_contributor_soni_role">Bản dịch tiếng Indonesia</string>
+    <string name="scandium_about_contributor_vi">gia đình tôi</string>
+    <string name="scandium_about_contributor_vi_summary">bạn tôi</string>
 
     <!-- scandium. About Phone -->
     <string name="scandium_device_name">Tên thiết bị</string>
