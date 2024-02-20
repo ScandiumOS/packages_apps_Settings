@@ -20,9 +20,9 @@ jobs:
         distribution: "temurin"
         java-version: ${{ github.event.inputs.jdkVersion }}
     - name: Make Gradle executable
-      run: chmod +x . /gradlew
+      run: chmod +x gradlew
     - name: Build Release APK
-      run: . /gradlew assembleRelease
+      run: ./gradlew assembleRelease
     - name: Releasing using Hub
       uses: r0user/release-apk@main
       env:
