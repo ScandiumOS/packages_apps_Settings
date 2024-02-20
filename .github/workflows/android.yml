@@ -1,20 +1,24 @@
 name: Build Android APK
 
 on:
-  push:
-    tags:
-      - '*'
-
+  workflow_dispatch:
+    inputs:
+      jdkVersion:
+        description: "OpenJDK version to use: 8 / 11 / 17 etc."
+        required: false
+        default: "11"
+        
 jobs:
   Gradle:
     runs-on: ubuntu-latest
     steps:
     - name: checkout code
       uses: actions/checkout@v2
-    - name: setup jdk
-      uses: actions/setup-java@v1
+    - name: Setup JDK
+      uses: actions/setup-java@v4
       with:
-        java-version: 11
+        distribution: "temurin"
+        java-version: ${{ github.event.inputs.jdkVersion }}
     - name: Make Gradle executable
       run: chmod +x ./gradlew
     - name: Build Release APK
