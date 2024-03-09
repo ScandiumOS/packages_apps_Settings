@@ -30,7 +30,7 @@ public class scandiumBuildMaintainer extends BasePreferenceController {
         String scandiumMaintainer = SystemProperties.get("ro.scandium.maintainer", "unofficial maintainer");
         String scandiumBuildStatusSummary;
 
-        if(scandiumMaintainer.equalsIgnoreCase("Unmaintained") || scandiumMaintainer.equalsIgnoreCase(null)){
+        if(scandiumMaintainer.equalsIgnoreCase("unofficial maintainer") || scandiumMaintainer.equalsIgnoreCase(null)){
             scandiumBuildStatusSummary = mContext.getString(R.string.scandium_build_unmaintained_summary);
         } else {
             scandiumBuildStatusSummary = mContext.getString(R.string.scandium_build_maintained_summary, scandiumMaintainer);
