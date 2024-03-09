@@ -37,8 +37,8 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="id.xyzprjkt.scandium.scandiumcore"
-            android:targetClass="id.xyzprjkt.scandium.scandiumcore.updater.UpdaterActivity"/>
+            android:targetPackage="id.scandium.scandiumcore"
+            android:targetClass="id.scandium.scandiumcore.updater.UpdaterActivity"/>
 
     </Preference>
 
