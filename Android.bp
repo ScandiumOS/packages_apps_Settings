@@ -89,7 +89,7 @@ android_library {
         "lottie",
         "WifiTrackerLib",
         "SettingsLibActivityEmbedding",
-        "scandiumui-preference",
+        "scandiumui.preferences",
         "accountfeatureprovidergoogle",
     ],
 
