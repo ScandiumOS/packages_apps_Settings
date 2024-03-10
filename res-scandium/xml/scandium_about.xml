@@ -132,5 +132,7 @@
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/StartTrueDreams"/>
 
+        </Preference>
+             
     </PreferenceCategory>
 </PreferenceScreen>
