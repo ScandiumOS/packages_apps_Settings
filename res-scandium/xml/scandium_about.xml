@@ -40,7 +40,6 @@
         <Preference
             android:key="scandium_about_rayhan77"
             settings:layout="@layout/scandium_about_core_pref"
-            android:icon="@drawable/scandium_about_rayhan77"
             android:title="@string/scandium_about_core_rayhan77"
             android:summary="@string/scandium_about_core_rayhan77_role">
 
@@ -53,7 +52,6 @@
         <!-- Wisnu -->
         <Preference
             android:key="scandium_about_wisnu"
-            android:icon="@drawable/scandium_about_wisnu"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_wisnu"
             android:summary="@string/scandium_about_core_wisnu_role">
@@ -67,7 +65,6 @@
         <!-- RzalX -->
         <Preference
             android:key="scandium_about_rzalx"
-            android:icon="@drawable/scandium_about_rzalx"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_rzalx"
             android:summary="@string/scandium_about_core_rzalx_role">
@@ -81,7 +78,6 @@
         <!-- Picasso -->
         <Preference
             android:key="scandium_about_picasso"
-            android:icon="@drawable/scandium_about_picasso"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_picasso"
             android:summary="@string/scandium_about_core_picasso_role">
@@ -95,7 +91,6 @@
         <!-- Arsky -->
         <Preference
             android:key="scandium_about_arsky"
-            android:icon="@drawable/scandium_about_arsky"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_arsky"
             android:summary="@string/scandium_about_core_arsky_role">
@@ -109,7 +104,6 @@
         <!-- Putra -->
         <Preference
             android:key="scandium_about_putra"
-            android:icon="@drawable/scandium_about_putra"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_putra"
             android:summary="@string/scandium_about_core_putra_role">
@@ -123,7 +117,6 @@
         <!-- Soni -->
         <Preference
             android:key="scandium_about_soni"
-            android:icon="@drawable/scandium_about_soni"
             settings:layout="@layout/scandium_about_core_pref"
             android:title="@string/scandium_about_core_soni"
             android:summary="@string/scandium_about_core_soni_role">
