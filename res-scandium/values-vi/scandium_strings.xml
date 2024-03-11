@@ -106,12 +106,12 @@
     <string name="scandium_about_core_rzalx_role">Nhà thiết kế UI và UX</string>
     <string name="scandium_about_core_picasso">Picasso09</string>
     <string name="scandium_about_core_picasso_role">Nhà phát triển chính</string>
-    <string name="scandium_about_contributor_arsky">Arsky</string>
-    <string name="scandium_about_contributor_arsky_role">Nhà phát triển giao diện người dùng và nhà thiết kế giao diện người dùng</string>
-    <string name="scandium_about_contributor_putra">Putra</string>
-    <string name="scandium_about_contributor_putra_role">Nhà phát triển chính và Nhà thiết kế giao diện người dùng</string>
-    <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_role">Bản dịch tiếng Indonesia</string>
+    <string name="scandium_about_core_arsky">Arsky</string>
+    <string name="scandium_about_core_arsky_role">Nhà phát triển giao diện người dùng và nhà thiết kế giao diện người dùng</string>
+    <string name="scandium_about_core_putra">Putra</string>
+    <string name="scandium_about_core_putra_role">Nhà phát triển chính và Nhà thiết kế giao diện người dùng</string>
+    <string name="scandium_about_core_soni">Soni</string>
+    <string name="scandium_about_core_soni_role">Bản dịch tiếng Indonesia</string>
     <string name="scandium_about_contributor_vi">gia đình tôi</string>
     <string name="scandium_about_contributor_vi_summary">bạn tôi</string>
 
