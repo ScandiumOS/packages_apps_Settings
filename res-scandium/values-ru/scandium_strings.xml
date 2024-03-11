@@ -77,12 +77,12 @@
     <string name="scandium_about_core_rzalx_role">UI и UX дизайнер</string>
     <string name="scandium_about_core_picasso">Picasso09</string>
     <string name="scandium_about_core_picasso_role">Ведущий разработчик</string>
-    <string name="scandium_about_contributor_arsky">Arsky</string>
-    <string name="scandium_about_contributor_arsky_role">Фронтенд-разработчик и UI-дизайнер</string>
-    <string name="scandium_about_contributor_putra">Putra</string>
-    <string name="scandium_about_contributor_putra_role">Ведущий разработчик и дизайнер пользовательского интерфейса</string>
-    <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_role">Индонезийский переводчик</string>
+    <string name="scandium_about_core_arsky">Arsky</string>
+    <string name="scandium_about_core_arsky_role">Фронтенд-разработчик и UI-дизайнер</string>
+    <string name="scandium_about_core_putra">Putra</string>
+    <string name="scandium_about_core_putra_role">Ведущий разработчик и дизайнер пользовательского интерфейса</string>
+    <string name="scandium_about_core_soni">Soni</string>
+    <string name="scandium_about_core_soni_role">Индонезийский переводчик</string>
     <string name="scandium_about_contributor_vi">моя семья</string>
     <string name="scandium_about_contributor_vi_summary">Мой друг</string>
     <!-- scandium. About Phone -->
