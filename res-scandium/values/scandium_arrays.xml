@@ -28,7 +28,6 @@
           <item>@string/scandium_dashboard_greet9</item>
           <item>@string/scandium_dashboard_greet10</item>
           <item>@string/scandium_dashboard_greet11</item>
-          <item>@string/scandium_dashboard_greet12</item>
      </string-array>
 
 </resources>
