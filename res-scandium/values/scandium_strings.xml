@@ -106,12 +106,12 @@
     <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
     <string name="scandium_about_core_picasso">Picasso09</string>
     <string name="scandium_about_core_picasso_role">Lead Developer</string>
-    <string name="scandium_about_contributor_arsky">Arsky</string>
-    <string name="scandium_about_contributor_arsky_role">Front end developer and Desainer UI</string>
-    <string name="scandium_about_contributor_putra">Putra</string>
-    <string name="scandium_about_contributor_putra_role">Lead Developer and Desainer UI</string>
-    <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_role">Indonesian Translator</string>
+    <string name="scandium_about_core_arsky">Arsky</string>
+    <string name="scandium_about_core_arsky_role">Front end developer and Desainer UI</string>
+    <string name="scandium_about_core_putra">Putra</string>
+    <string name="scandium_about_core_putra_role">Lead Developer and Desainer UI</string>
+    <string name="scandium_about_core_soni">Soni</string>
+    <string name="scandium_about_core_soni_role">Indonesian Translator</string>
     <string name="scandium_about_contributor_vi">My Family</string>
     <string name="scandium_about_contributor_vi_summary">My Friend</string>
 
