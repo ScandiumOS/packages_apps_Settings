@@ -14,10 +14,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- scandium. version -->
-    <string name="scandium_revision">Bản sửa đổi scandium/string>
+    <string name="scandium_revision">Bản sửa đổi scandium</string>
 
     <!-- AOSP Revision -->
     <string name="aosp_revision">Bản sửa đổi AOSP</string>
@@ -125,4 +126,5 @@
     <string name="scandium_build_status">Thiết bị của bạn không được hỗ trợ chính thức!</string>
     <string name="scandium_build_maintained_summary">Được hỗ trợ chính thức bởi %s</string>
     <string name="scandium_build_unmaintained_summary">Build này không được hỗ trợ chính thức</string>
+
 </resources>
