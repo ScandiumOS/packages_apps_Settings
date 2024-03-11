@@ -99,12 +99,12 @@
     <string name="scandium_about_core_rzalx_role">Desainer UI dan UX</string>
     <string name="scandium_about_core_picasso">Picasso09</string>
     <string name="scandium_about_core_picasso_role">Pengembang Utama</string>
-    <string name="scandium_about_contributor_arsky">Arsky</string>
-    <string name="scandium_about_contributor_arsky_role">Pengembang front end Dan Desainer UI</string>
-    <string name="scandium_about_contributor_putra">Putra</string>
-    <string name="scandium_about_contributor_putra_role">Pengembang Utama Dan Desainer UI</string>
-    <string name="scandium_about_contributor_soni">Soni</string>
-    <string name="scandium_about_contributor_soni_role">Penerjemah Indonesia</string>
+    <string name="scandium_about_core_arsky">Arsky</string>
+    <string name="scandium_about_core_arsky_role">Pengembang front end Dan Desainer UI</string>
+    <string name="scandium_about_core_putra">Putra</string>
+    <string name="scandium_about_core_putra_role">Pengembang Utama Dan Desainer UI</string>
+    <string name="scandium_about_core_soni">Soni</string>
+    <string name="scandium_about_core_soni_role">Penerjemah Indonesia</string>
     <string name="scandium_about_contributor_vi">Keluarga Saya</string>
     <string name="scandium_about_contributor_vi_summary">Teman Saya</string>
     <!-- scandium. About Phone -->
