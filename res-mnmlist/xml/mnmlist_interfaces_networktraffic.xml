@@ -29,13 +29,5 @@
         android:entries="@array/network_traffic_mode_entries"
         android:entryValues="@array/network_traffic_mode_values"
         android:defaultValue="0" />
-
-    <com.scandium.mnmlist.preferences.SystemSettingSeekBarPreference
-        android:key="network_traffic_refresh_interval"
-        android:title="@string/network_traffic_refresh_interval_title"
-        android:max="10"
-        settings:min="1"
-        android:defaultValue="1"
-        settings:units="sec" />
     
 </PreferenceScreen>
