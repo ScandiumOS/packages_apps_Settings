@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2020 The Dirty Unicorns Project
+     Copyright (C) 2021 scandium Android Development
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_margin="20dp"
+    android:paddingBottom="25dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="12dp">
+
+        <TextView
+            android:id="@+id/mName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="?android:attr/textColorPrimary"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Maintainer"
+            android:layout_below="@+id/mName"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="?android:attr/textColorSecondary"
+            android:textStyle="normal" />
+            
+        <TextView
+            android:id="@+id/devGithub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/m"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:tint="@android:color/system_accent1_300"
+            android:backgroundTint="@android:color/system_neutral1_700"
+            android:layout_marginEnd="10.0dp"
+            android:layout_marginTop="5.0dp"
+            android:background="@drawable/scandium_icon_bg"
+            android:paddingTop="8.0dp"
+            android:paddingBottom="8.0dp"
+            android:paddingStart="10.0dp"
+            android:paddingEnd="14.0dp"
+            android:singleLine="true"
+            android:text="Github"
+            android:drawablePadding="4dp"
+            android:drawableLeft="@drawable/github" />
+
+        <TextView
+            android:id="@+id/devTelegram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:tint="@android:color/system_accent1_300"
+            android:backgroundTint="@android:color/system_neutral1_700"
+            android:layout_toEndOf="@+id/devGithub"
+            android:layout_below="@+id/m"
+            android:background="@drawable/scandium_icon_bg"
+            android:paddingTop="8.0dp"
+            android:singleLine="true"
+            android:layout_marginTop="5.0dp"
+            android:paddingBottom="8.0dp"
+            android:paddingStart="10.0dp"
+            android:paddingEnd="14.0dp"
+            android:text="Telegram"
+            android:drawablePadding="4dp"
+            android:drawableLeft="@drawable/telegram" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:background="@drawable/scandium_l_bg"
+        android:backgroundTint="@android:color/system_neutral1_700"
+        android:padding="25dp"
+        android:layout_gravity="center|start"
+        android:layout_marginStart="10.0dp"
+        android:layout_marginEnd="15dp">
+
+        <com.scandium.support.helpers.CircularImageView
+            android:id="@+id/mProfile"
+            android:src="@drawable/ava_img"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            app:civ_border="true"
+            app:civ_border_color="@*android:color/accent_device_default_light"
+            app:civ_border_width="0dp" />
+        
+    </FrameLayout>
+
+</FrameLayout>
